@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oximeode.github.io/CcI/sitemap_index.txt
+Sitemap: https://oximeode.github.io/EoV/sitemap_index.txt
+Sitemap: https://oximeode.github.io/JjT/sitemap_index.txt
+Sitemap: https://oximeode.github.io/afj/sitemap_index.txt
